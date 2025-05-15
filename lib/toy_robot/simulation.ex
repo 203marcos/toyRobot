@@ -91,4 +91,8 @@ defmodule ToyRobot.Simulation do
       end
   end
 
+  def report(%Simulation{robot: %Robot{x: x, y: y, facing: facing}}) do
+    %{x: x, y: y, facing: facing}
+  end
+
 end

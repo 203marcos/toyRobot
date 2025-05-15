@@ -93,12 +93,12 @@ defmodule ToyRobot.Robot do
 
   # defp move_top
   defp move_top(%Robot{} = robot) do
-    %Robot{ robot | y: robot.x + 1 }
+    %Robot{ robot | y: robot.y + 1 }
   end
 
   # defp move_bottom
   defp move_bottom(%Robot{} = robot) do
-    %Robot{ robot | y: robot.x - 1 }
+    %Robot{ robot | y: robot.y - 1 }
   end
 
   # def turn_left
