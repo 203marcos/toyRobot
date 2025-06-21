@@ -1,6 +1,6 @@
 # Toy Robot Simulation
 
-This project is part of the **T300 - Functional Programming** course, taught by **Prof. Bruno Lopes**. It implements a simulation of a toy robot moving on a square tabletop, following specific commands. This problem is also a common exercise in technical interviews, as it tests problem-solving skills, modular design, and the ability to work with constraints.
+This project is part of the **T300 - Functional Programming** course. It implements a simulation of a toy robot moving on a square tabletop, following specific commands. This problem is also a common exercise in technical interviews, as it tests problem-solving skills, modular design, and the ability to work with constraints.
 
 ## Problem Description
 
